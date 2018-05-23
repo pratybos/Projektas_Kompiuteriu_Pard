@@ -1,0 +1,3 @@
+2
+1 Monitor personal_Compiuter_monitor_16_inch Monitor 24 250
+2 Keybords personal_Compiuter_Keybord Accesories 36 50
